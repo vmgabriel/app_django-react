@@ -1,0 +1,4 @@
+* Tasks
+** TODO hello
+   [2020-08-05 mié]
+   [[orgit:~/Documentos/works/react_django/][~/Documentos/works/react_django/ (magit-status)]]
